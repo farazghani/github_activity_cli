@@ -26,7 +26,7 @@ def get_github_activity(url: str) -> list[activity]:
     return list[:3]
     
       
-print(get_github_activity("https://api.github.com/users/hkirat/events"))
+
 
 
 
